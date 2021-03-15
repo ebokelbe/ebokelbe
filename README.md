@@ -1,4 +1,5 @@
-### Hi there 👋
+## Welcome to Ethan Bokelberg's Github 
+
 
 <!--
 **ebokelbe/ebokelbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
